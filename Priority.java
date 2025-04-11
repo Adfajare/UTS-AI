@@ -1,5 +1,3 @@
-package peetemuan5;
-
 public class Priority {
 
     public static Node[] setPriority(double[] ratio_array, String[] binaryString_array) {
